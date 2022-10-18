@@ -36,7 +36,6 @@ object InvertedIndexConstruction {
     countRDD.foreach(println)
     countRDD.saveAsTextFile("src/main/resources/Store/wholeInvertedIndex.txt")
 
-
   }
 }
 
