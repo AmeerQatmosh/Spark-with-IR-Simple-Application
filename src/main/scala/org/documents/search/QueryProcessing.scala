@@ -21,7 +21,7 @@ object QueryProcessing {
     val sc = new SparkContext(conf)
     sc.setLogLevel("ERROR")
 
-    val read = sc.textFile("src/main/resources/output/wholeInvertedIndex.txt")
+    val read = sc.textFile("src/main/resources/wholeInvertedIndex.txt")
   }
 
 }
