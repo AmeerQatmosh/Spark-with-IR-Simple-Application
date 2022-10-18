@@ -1,0 +1,2 @@
+Apache Spark is a unified engine designed for large scale distributed data processing on premises in data centers or in the cloud Spark provides in memory storage for intermediate computations making it much faster than Hadoop MapReduce It incorporates libraries with composable APIs for machine learning MLlib SQL for interactive queries Spark SQL stream processing Structured Streaming for interacting with real time data and graph processing
+GraphX

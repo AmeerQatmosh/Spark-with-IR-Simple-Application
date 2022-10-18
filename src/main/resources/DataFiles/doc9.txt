@@ -1,0 +1,1 @@
+Tables hold data Associated with each table in Spark is its relevant metadata which is information about the table and its data the schema description table name database name column names partitions physical location where the actual data resides etc All of this is stored in a central metastore.

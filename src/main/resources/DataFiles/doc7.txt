@@ -1,0 +1,2 @@
+In Spark supported languages Datasets make sense only in Java and Scala whereas in Python and R only DataFrames make sense This is because Python and R are not
+compile time type safe types are dynamically inferred or assigned during execution not during compile time

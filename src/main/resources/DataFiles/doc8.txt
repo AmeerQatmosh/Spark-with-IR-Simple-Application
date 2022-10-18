@@ -1,0 +1,2 @@
+The SparkSession introduced in Spark provides a unified entry point for programming Spark with the Structured API You can use a SparkSession to access
+Spark functionality just import the class and create an instance in your code

@@ -1,0 +1,3 @@
+Spark SQL is a foundational component of Apache Spark that integrates relational processing with Spark functional programming API Its genesis was in previous
+work on Shark Shark was originally built on the Hive codebase on top of Apache Spark1 and became one of the first interactive SQL query engines on Hadoop systems
+It demonstrated that it was possible to have the best of both worlds as fast as an enterprise data warehouse and scaling as well as Hive MapReduce

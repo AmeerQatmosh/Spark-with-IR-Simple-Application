@@ -1,0 +1,4 @@
+Spark focuses on its fast parallel computation engine rather than on storage Unlike Apache Hadoop which included both storage and compute Spark decouples the two
+That means you can use Spark to read data stored in myriad sources Apache Hadoop Apache Cassandra Apache HBase MongoDB Apache Hive RDBMS and
+more and process it all in memory Spark DataFrame Readers and DataFrame Writers can also be extended to read data from other sources such as Apache Kafka
+Kinesis Azure Storage and Amazon S3 into its logical data abstraction on which it can operate
